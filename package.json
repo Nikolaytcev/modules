@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nikolaytcev/modules_js.git"
+    "url": "git+https://github.com/Nikolaytcev/modules.git"
   },
   "author": "kbiggy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nikolaytcev/modules_js/issues"
+    "url": "https://github.com/Nikolaytcev/modules/issues"
   },
-  "homepage": "https://github.com/Nikolaytcev/modules_js#readme",
+  "homepage": "https://github.com/Nikolaytcev/modules#readme",
   "devDependencies": {
     "babel-loader": "^9.1.3",
     "css-loader": "^6.8.1",
